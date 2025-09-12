@@ -4,5 +4,5 @@
 - Programa 1
 - Programa 2
 
-### Actividad san isisdro peñon blanco   2
+### Actividad y la uaz
 - Programa 3
