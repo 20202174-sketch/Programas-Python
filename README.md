@@ -60,3 +60,6 @@
 
 ## 09 - Primer examen parcial
 - p066-primer-parcial.py
+
+## Segundo Examen Parcial
+- p125-segundo-examen-parcial.py
