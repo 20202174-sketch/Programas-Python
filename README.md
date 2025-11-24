@@ -68,6 +68,14 @@
 - p050-conteo-numeros.py
 - p051-adivina-numero.py
 
+## Actividad 7 - Ejecucion Repetitiva Parte 2
+- p052-tabla-conversion.py
+- p053-conjetura-collatz.py
+- p054-tabla-multiplicar-while-v1.py
+- p055-tabla-multiplicar-while-v2.py
+- p056-contador-vocales.py
+- p057-interes-simple.py
+
 ## 09 - Primer examen parcial
 - p066-primer-parcial.py
 
